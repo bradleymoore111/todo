@@ -17,3 +17,5 @@ Make an auto formatter for code
 - Give it different styles, including the terrible one where all the brackets are at the end
 
 Make a drag and drop UX builder. Including pre-creating elements and their types, automatic labels, etc.
+
+Tracking and flicking tool, probably JS Canvas, possibly CPP to take over the mouse
