@@ -19,3 +19,8 @@ Make an auto formatter for code
 Make a drag and drop UX builder. Including pre-creating elements and their types, automatic labels, etc.
 
 Tracking and flicking tool, probably JS Canvas, possibly CPP to take over the mouse
+
+Wallpaper manager for my phone
+
+Msuic player, that tracks and assigns elo scores to songs, then selects them based on their elos
+* Skipping would count as lowering, allowing to play counts as raising
