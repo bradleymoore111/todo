@@ -24,3 +24,5 @@ Wallpaper manager for my phone
 
 Msuic player, that tracks and assigns elo scores to songs, then selects them based on their elos
 * Skipping would count as lowering, allowing to play counts as raising
+
+Video game where you control minions (think "meatboys"), that autopath around and destroy things. They're invincible, but stupid. You can upgrade them and stuff
